@@ -4,6 +4,7 @@
 
  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/Ft999_eXe)](https://www.t.me/Ft999_eXe) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labtechnical40@gmail.com)](mailto:labtechnical40@gmail.com)
+[![Profile Views](https://gpvc.arturio.dev/SenapiGod)](https://github.com/SenapiGod)
 
 I am Aftrr. I am from India.I love to do web development and open to learning new technologies.
 
